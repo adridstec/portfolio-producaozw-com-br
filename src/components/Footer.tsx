@@ -4,7 +4,7 @@ const Footer = () => {
       <p className="font-display font-bold text-lg">
         <span className="text-gradient">Gardin</span>
       </p>
-      <p className="text-muted-foreground text-sm">© 2026 Gardin Gráfica. Todos os direitos reservados.
+      <p className="text-muted-foreground text-sm">© 2026 Gráfica Gardin. Todos os direitos reservados.
 
       </p>
     </footer>);
