@@ -24,7 +24,7 @@ const HeroSection = () => {
           <p className="text-primary font-medium tracking-[0.3em] uppercase text-sm mb-4">
             Impressão de Alta Qualidade
           </p>
-          <h1 className="text-5xl md:text-7xl lg:text-8xl font-display font-extrabold leading-[0.9] mb-6">
+          <h1 className="text-4xl md:text-7xl lg:text-8xl font-display font-extrabold leading-[0.9] mb-6">
             Suas ideias,{" "}
             <span className="text-gradient">impressas</span>{" "}
             com excelência.
