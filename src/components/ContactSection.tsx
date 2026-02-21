@@ -33,7 +33,7 @@ const ContactSection = () => {
             </div>
             <div className="flex items-center gap-4">
               <MapPin className="w-5 h-5 text-primary" />
-              <span className="text-secondary-foreground">Cruz lta - RS</span>
+              <span className="text-secondary-foreground">Av. Plácido de Castro, 1433 - Cruz lta - RS</span>
             </div>
           </div>
         </motion.div>
