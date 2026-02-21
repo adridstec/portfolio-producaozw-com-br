@@ -17,9 +17,9 @@ const ContactSection = () => {
           <h2 className="text-4xl md:text-5xl font-display font-bold mb-6">
             Solicite seu orçamento.
           </h2>
-          <p className="text-muted-foreground leading-relaxed mb-8">
-            Entre em contato e receba um orçamento personalizado para seu projeto. 
-            Estamos prontos para atender suas necessidades.
+          <p className="text-muted-foreground leading-relaxed mb-8">Entre em contato e receba um orçamento personalizado.
+Estamos prontos para atender as suas necessidades.
+
           </p>
 
           <div className="space-y-4">
