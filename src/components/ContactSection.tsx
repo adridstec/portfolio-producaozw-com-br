@@ -25,15 +25,15 @@ Estamos prontos para atender as suas necessidades.
           <div className="space-y-4">
             <div className="flex items-center gap-4">
               <Phone className="w-5 h-5 text-primary" />
-              <span className="text-secondary-foreground">(55)99205-6342</span>
+              <span className="text-secondary-foreground">(55) 99181-0490</span>
             </div>
             <div className="flex items-center gap-4">
               <Mail className="w-5 h-5 text-primary" />
-              <span className="text-secondary-foreground">contato@graficazw.com.br</span>
+              <span className="text-secondary-foreground">zukwebrs@gmail.com</span>
             </div>
             <div className="flex items-center gap-4">
               <MapPin className="w-5 h-5 text-primary" />
-              <span className="text-secondary-foreground">Av. Plácido de Castro, 1433 - Cruz lta - RS</span>
+              <span className="text-secondary-foreground">Cruz Alta - RS</span>
             </div>
           </div>
         </motion.div>
