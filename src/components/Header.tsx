@@ -17,7 +17,7 @@ const Header = () => {
     <header className="fixed top-0 left-0 right-0 z-50 glass-card">
       <div className="flex items-center justify-between section-padding !py-4">
         <a href="#inicio" className="font-display text-2xl font-bold tracking-tight">
-          <span className="text-gradient">Gardin</span>
+          <span className="text-gradient">Gráfica ZW</span>
         </a>
 
         {/* Desktop nav */}
